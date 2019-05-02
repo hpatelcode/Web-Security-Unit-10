@@ -9,7 +9,7 @@ Difficulties setting up the mhn-admin and honeypots on google cloud. At first, i
 
 ## summary of the data collected: number of attacks, number of malware samples, etc.
 
-37540 attacks
+~37541 attacks
 
 ![honeypots](https://user-images.githubusercontent.com/25422131/57057222-305ebf80-6c75-11e9-9942-51ec31a93224.gif)
 
