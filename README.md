@@ -3,11 +3,11 @@
 
 Dionaea over HTTP
 
-## Any issues you encountered
+## Issues Encountered:
 
 Difficulties setting up the mhn-admin and honeypots on google cloud. At first, i could not gain access to the admin console for the server. I also had trouble setting up the firewalls. My session.json file also did not export properly and missed some data. 
 
-## summary of the data collected: number of attacks, number of malware samples, etc.
+## Summary of the data collected: number of attacks, number of malware samples, etc.
 
 ~37541 attacks
 
